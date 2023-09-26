@@ -1,21 +1,30 @@
-# Heart-Disease-Prediction-using-Machine-Learning
-Thus preventing Heart diseases has become more than necessary. Good data-driven systems for predicting heart diseases can improve the entire research and prevention process, making sure that more people can live healthy lives. This is where Machine Learning comes into play. Machine Learning helps in predicting the Heart diseases, and the predictions made are quite accurate.
+**Project Overview: Heart Disease Prediction using Machine Learning**
 
-The project involved analysis of the heart disease patient dataset with proper data processing. Then, different models were trained and and predictions are made with different algorithms KNN, Decision Tree, Random Forest,SVM,Logistic Regression etc
-This is the jupyter notebook code and dataset I've used for my Kaggle kernel 'Binary Classification with Sklearn and Keras'
+With the increasing prevalence of heart diseases, accurate prediction and prevention have become imperative. Leveraging the power of Machine Learning, we aim to enhance the accuracy of heart disease predictions, ultimately contributing to better healthcare outcomes.
 
-I've used a variety of Machine Learning algorithms, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
+**Project Details:**
 
-Machine Learning algorithms used:
+- **Objective**: Predict the presence of heart disease in patients, addressing a vital classification problem in healthcare.
 
-1. Logistic Regression (Scikit-learn)
-2. Naive Bayes (Scikit-learn)
-3. Support Vector Machine (Linear) (Scikit-learn)
-4. K-Nearest Neighbours (Scikit-learn)
-5. Decision Tree (Scikit-learn)
-6. Random Forest (Scikit-learn)
-7. XGBoost (Scikit-learn)
-8. Artificial Neural Network with 1 Hidden layer (Keras)
+- **Dataset**: The analysis is based on a heart disease patient dataset. This dataset encompasses a range of parameters, including age, blood pressure, cholesterol levels, etc., along with binary labels indicating the presence or absence of heart disease.
+
+- **Data Processing**: Thorough data processing was undertaken, involving tasks like handling missing values, encoding categorical variables, and normalizing or standardizing features. This step ensures that the data is in a format suitable for training machine learning models.
+
+- **Machine Learning Models**: Various machine learning algorithms were employed to achieve accurate predictions. Notable models include:
+  - K-Nearest Neighbors (KNN)
+  - Decision Tree
+  - Random Forest
+  - Support Vector Machine (SVM)
+  - Logistic Regression
+
+- **Evaluation**: The models' performance was rigorously assessed using appropriate metrics to ascertain their predictive efficacy. This ensures that the selected model is reliable and robust in making accurate predictions.
+
+- **Kaggle Kernel**: The project was shared as a Kaggle kernel titled 'Binary Classification with Sklearn and Keras'. This platform allows for collaborative data science and provides a space for sharing insights and code.
+
+---
+
+
+
 
 Accuracy achieved: 95% (Random Forest)
 
