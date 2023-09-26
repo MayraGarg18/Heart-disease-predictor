@@ -25,8 +25,5 @@ With the increasing prevalence of heart diseases, accurate prediction and preven
 
 
 
-
-Accuracy achieved: 95% (Random Forest)
-
 Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
 
